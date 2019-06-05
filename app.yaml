@@ -15,4 +15,4 @@ endpoints_api_service:
  name: my-dog2-api.appspot.com
  #rollout_strategy: managed
  # Copyright 2015-2016, Google,
- config_id: 2019-06-05r0
+ config_id: 2019-06-05r1
